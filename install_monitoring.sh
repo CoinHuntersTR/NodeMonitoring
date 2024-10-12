@@ -53,7 +53,7 @@ echo "=================================================="
 
 echo -e "\e[1m\e[32m5. Downloading Node Monitoring config files ... \e[0m" && sleep 1
 cd $HOME
-rm -rf cosmos_node_monitoring
-git clone https://github.com/kj89/cosmos_node_monitoring.git
+rm -rf NodeMonitoring
+git clone https://github.com/CoinHuntersTR/NodeMonitoring.git
 
-chmod +x $HOME/cosmos_node_monitoring/add_validator.sh
+chmod +x $HOME/NodeMonitoring/add_validator.sh
