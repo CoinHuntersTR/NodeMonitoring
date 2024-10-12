@@ -5,7 +5,7 @@
 ### Install exporters on validator node
 First of all you will have to install exporters on validator node. For that you can use one-liner below
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/CoinHuntersTR/NodeMonitoring/refs/heads/main/install_monitoring.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/CoinHuntersTR/NodeMonitoring/refs/heads/main/install_exporters.sh)
 ```
 
 | KEY |VALUE |
